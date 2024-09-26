@@ -9,6 +9,7 @@ Cloud-Reli is a cutting-edge cloud storage system designed to allow users to sec
 
 - **🔐 User Registration and Login:** Users can sign up and log in using their email and password.
 - **🔗 Login with Google and GitHub:** Users can authenticate with their Google and GitHub accounts.
+- **🔒 Password Reset: ** When users forget their passwords, they can create a new one through a token sent via email.
 - **📤 File Upload:** Users can upload and store various types of files with ease.
 - **👁️ File Viewing:** Users can view their uploaded files directly in the browser.
 - **📥 File Download:** Users can download their files to local devices for offline access.
@@ -26,7 +27,7 @@ Cloud-Reli is a cutting-edge cloud storage system designed to allow users to sec
 
 # 🌩️ Cloud-Reli - Bulut Depolama Sistemi
 
-Cloud-Reli, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine, depolamalarına ve yönetmelerine olanak tanıyan yenilikçi bir bulut depolama sistemidir. Kullanıcı dostu arayüzü ve güçlü özellikleri ile Cloud-Rile, dosya yönetimini kolaylaştırır ve verilerinizi dünyanın her yerinden erişilebilir kılar.
+Cloud-Reli, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine, depolamalarına ve yönetmelerine olanak tanıyan yenilikçi bir bulut depolama sistemidir. Kullanıcı dostu arayüzü ve güçlü özellikleri ile Cloud-Reli, dosya yönetimini kolaylaştırır ve verilerinizi dünyanın her yerinden erişilebilir kılar.
 
 ![Cloud-Reli](https://github.com/user-attachments/assets/0a9bca86-6cb6-4082-935b-9ee067fbef96)
 
@@ -34,6 +35,7 @@ Cloud-Reli, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine
 
 - **🔐 Kullanıcı Kayıt ve Giriş:** Kullanıcılar, e-posta ve şifre ile kayıt olabilir ve giriş yapabilirler.
 - **🔗 Google ve GitHub ile Giriş:** Kullanıcılar, Google ve GitHub hesapları ile giriş yapabilirler.
+- **🔒 Parola Sıfırlama:** Kullanıcılar parolalarını unuttuğunda e-posta üzerinden gönderilen token içerikli mail ile yeni parolalarını oluşturabilirler.
 - **📤 Dosya Yükleme:** Kullanıcılar çeşitli dosya türlerini kolaylıkla yükleyebilir ve depolayabilirler.
 - **👁️ Dosya Görüntüleme:** Kullanıcılar yükledikleri dosyaları tarayıcıda doğrudan görüntüleyebilirler.
 - **📥 Dosya İndirme:** Kullanıcılar dosyalarını yerel cihazlarına indirerek çevrimdışı erişim sağlayabilirler.
