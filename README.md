@@ -1,8 +1,8 @@
-# 🌩️ Cloud-Rile - Cloud Storage System With Pyhton
+# 🌩️ Cloud-Reli - Cloud Storage System With Pyhton
 
-Cloud-Rile is a cutting-edge cloud storage system designed to allow users to securely upload, store, and manage their files. With its intuitive interface and robust features, Cloud-Rile simplifies file management and ensures your data is accessible from anywhere in the world.
+Cloud-Reli is a cutting-edge cloud storage system designed to allow users to securely upload, store, and manage their files. With its intuitive interface and robust features, Cloud-Rile simplifies file management and ensures your data is accessible from anywhere in the world.
 
-![Cloud-Rile](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/af5230df-52c0-4711-aa0b-f8af7af0c283)
+![Cloud-Reli](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/af5230df-52c0-4711-aa0b-f8af7af0c283)
 
 ## ✨ Features
 
@@ -22,11 +22,11 @@ Cloud-Rile is a cutting-edge cloud storage system designed to allow users to sec
 
 ---
 
-# 🌩️ Cloud-Rile - Bulut Depolama Sistemi
+# 🌩️ Cloud-Reli - Bulut Depolama Sistemi
 
-Cloud-Rile, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine, depolamalarına ve yönetmelerine olanak tanıyan yenilikçi bir bulut depolama sistemidir. Kullanıcı dostu arayüzü ve güçlü özellikleri ile Cloud-Rile, dosya yönetimini kolaylaştırır ve verilerinizi dünyanın her yerinden erişilebilir kılar.
+Cloud-Reli, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine, depolamalarına ve yönetmelerine olanak tanıyan yenilikçi bir bulut depolama sistemidir. Kullanıcı dostu arayüzü ve güçlü özellikleri ile Cloud-Rile, dosya yönetimini kolaylaştırır ve verilerinizi dünyanın her yerinden erişilebilir kılar.
 
-![Cloud-Rile](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/af5230df-52c0-4711-aa0b-f8af7af0c283)
+![Cloud-Reli](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/af5230df-52c0-4711-aa0b-f8af7af0c283)
 
 ## ✨ Özellikler
 
