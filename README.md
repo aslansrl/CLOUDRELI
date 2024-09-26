@@ -1,8 +1,8 @@
 # 🌩️ Cloud-Reli - Cloud Storage System With Pyhton
 
-Cloud-Reli is a cutting-edge cloud storage system designed to allow users to securely upload, store, and manage their files. With its intuitive interface and robust features, Cloud-Rile simplifies file management and ensures your data is accessible from anywhere in the world.
+Cloud-Reli is a cutting-edge cloud storage system designed to allow users to securely upload, store, and manage their files. With its intuitive interface and robust features, Cloud-Reli simplifies file management and ensures your data is accessible from anywhere in the world.
 
-![signup](https://github.com/user-attachments/assets/72f12adc-7776-4109-a60d-7caeb6ffe694)
+![Cloud-Reli](https://github.com/user-attachments/assets/0a9bca86-6cb6-4082-935b-9ee067fbef96)
 
 
 ## ✨ Features
@@ -16,10 +16,11 @@ Cloud-Reli is a cutting-edge cloud storage system designed to allow users to sec
 - **🗑️ Trash Bin:** Deleted files and folders are moved to the trash bin for potential recovery.
 - **📊 Quota Management:** Users have a specific storage quota and can monitor their current usage.
 
-![Feature 1](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/476a69f4-658b-451e-bbaf-8fd225f18b79)
-![Feature 2](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/4d26c83f-a570-4fab-9a20-3a845875ace9)
-![Feature 3](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/c831a8d6-edff-48e9-a6b8-30b7221eb160)
-![Feature 4](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/ddf807c0-de4f-4ed0-ac4c-00d07ce3bc56)
+![Features I ](https://github.com/user-attachments/assets/15cbf311-9951-4d7d-a87d-65e6cde29967)
+![Features II ](https://github.com/user-attachments/assets/e8d6ab19-a143-4c4b-b71e-454691f8b151)
+![Features III ](https://github.com/user-attachments/assets/03f44b84-807c-4f0e-8961-265b23d99cef)
+![Features IV ](https://github.com/user-attachments/assets/b555cb84-dc2f-4bdc-9d76-22edfbd6bfaf)
+
 
 ---
 
@@ -27,7 +28,7 @@ Cloud-Reli is a cutting-edge cloud storage system designed to allow users to sec
 
 Cloud-Reli, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine, depolamalarına ve yönetmelerine olanak tanıyan yenilikçi bir bulut depolama sistemidir. Kullanıcı dostu arayüzü ve güçlü özellikleri ile Cloud-Rile, dosya yönetimini kolaylaştırır ve verilerinizi dünyanın her yerinden erişilebilir kılar.
 
-![Cloud-Reli](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/af5230df-52c0-4711-aa0b-f8af7af0c283)
+![Cloud-Reli](https://github.com/user-attachments/assets/0a9bca86-6cb6-4082-935b-9ee067fbef96)
 
 ## ✨ Özellikler
 
@@ -40,7 +41,7 @@ Cloud-Reli, kullanıcıların dosyalarını güvenli bir şekilde yüklemelerine
 - **🗑️ Çöp Kutusu:** Silinen dosya ve klasörler, geri yüklenmek üzere çöp kutusuna taşınır.
 - **📊 Kota Yönetimi:** Kullanıcıların belirli bir depolama kotası vardır ve mevcut kullanım durumlarını izleyebilirler.
 
-![Özellik 1](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/476a69f4-658b-451e-bbaf-8fd225f18b79)
-![Özellik 2](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/4d26c83f-a570-4fab-9a20-3a845875ace9)
-![Özellik 3](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/c831a8d6-edff-48e9-a6b8-30b7221eb160)
-![Özellik 4](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/ddf807c0-de4f-4ed0-ac4c-00d07ce3bc56)
+![Özellik 1](https://github.com/user-attachments/assets/15cbf311-9951-4d7d-a87d-65e6cde29967)
+![Özellik 2](https://github.com/user-attachments/assets/e8d6ab19-a143-4c4b-b71e-454691f8b151)
+![Özellik 3](https://github.com/user-attachments/assets/03f44b84-807c-4f0e-8961-265b23d99cef)
+![Özellik 4](https://github.com/user-attachments/assets/b555cb84-dc2f-4bdc-9d76-22edfbd6bfaf)
