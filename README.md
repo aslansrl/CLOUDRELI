@@ -2,7 +2,8 @@
 
 Cloud-Reli is a cutting-edge cloud storage system designed to allow users to securely upload, store, and manage their files. With its intuitive interface and robust features, Cloud-Rile simplifies file management and ensures your data is accessible from anywhere in the world.
 
-![Cloud-Reli](https://github.com/Kocayilmaz/Cloud-Rile/assets/115413087/af5230df-52c0-4711-aa0b-f8af7af0c283)
+![signup](https://github.com/user-attachments/assets/72f12adc-7776-4109-a60d-7caeb6ffe694)
+
 
 ## ✨ Features
 
